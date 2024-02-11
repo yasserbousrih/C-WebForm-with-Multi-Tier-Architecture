@@ -1,0 +1,28 @@
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\bin\Debug\EmpProj.exe.config
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\bin\Debug\EmpProj.exe
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\bin\Debug\EmpProj.pdb
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\MTProgect.csproj.AssemblyReference.cache
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj3.Form1.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.Properties.Resources.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\MTProgect.csproj.GenerateResource.cache
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\MTProgect.csproj.CoreCompileInputs.cache
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.exe
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.pdb
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.Courses.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.Enrollments.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.Programs.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\EmpProj3(alt-2) v3 - Copy\EmpProj\obj\Debug\EmpProj.Students.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\bin\Debug\EmpProj.exe.config
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\bin\Debug\EmpProj.exe
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\bin\Debug\EmpProj.pdb
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\MTProgect.csproj.AssemblyReference.cache
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.Courses.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.Enrollments.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj3.Form1.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.Programs.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.Properties.Resources.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.Students.resources
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\MTProgect.csproj.GenerateResource.cache
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\MTProgect.csproj.CoreCompileInputs.cache
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.exe
+C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.pdb

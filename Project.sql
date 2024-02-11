@@ -1,0 +1,59 @@
+CREATE DATABASE College1en;
+GO
+
+USE College1en;
+GO
+
+-- Programs table
+CREATE TABLE Programs (
+    ProgId VARCHAR(5) NOT NULL,
+    ProgName VARCHAR(50) NOT NULL,
+    PRIMARY KEY (ProgId)
+);
+GO
+
+-- Courses table
+CREATE TABLE Courses (
+    CId VARCHAR(7) NOT NULL,
+    CName VARCHAR(50) NOT NULL,
+    ProgId VARCHAR(5) NOT NULL,
+    PRIMARY KEY (CId),
+    FOREIGN KEY (ProgId) REFERENCES Programs(ProgId) ON DELETE CASCADE ON UPDATE CASCADE
+);
+GO
+
+-- Students table
+CREATE TABLE Students (
+    StId VARCHAR(10) NOT NULL,
+    StName VARCHAR(50) NOT NULL,
+    ProgId VARCHAR(5) NOT NULL,
+    PRIMARY KEY (StId),
+    FOREIGN KEY (ProgId) REFERENCES Programs(ProgId) ON DELETE NO ACTION ON UPDATE CASCADE
+);
+GO
+
+-- Enrollments table
+CREATE TABLE Enrollments (
+    StId VARCHAR(10) NOT NULL,
+    CId VARCHAR(7) NOT NULL,
+    FinalGrade INT,
+    PRIMARY KEY (StId, CId),
+    FOREIGN KEY (StId) REFERENCES Students(StId) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (CId) REFERENCES Courses(CId) ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+GO
+
+-- Inserting some data into the tables
+INSERT INTO Programs VALUES ('P0001', 'Program 1');
+INSERT INTO Programs VALUES ('P0002', 'Program 2');
+
+INSERT INTO Courses VALUES ('C000001', 'Course 1', 'P0001');
+INSERT INTO Courses VALUES ('C000002', 'Course 2', 'P0001');
+INSERT INTO Courses VALUES ('C000003', 'Course 3', 'P0002');
+
+INSERT INTO Students VALUES ('S000000001', 'Student 1', 'P0001');
+INSERT INTO Students VALUES ('S000000002', 'Student 2', 'P0002');
+
+INSERT INTO Enrollments VALUES ('S000000001', 'C000001', 85);
+INSERT INTO Enrollments VALUES ('S000000001', 'C000002', 90);
+INSERT INTO Enrollments VALUES ('S000000002', 'C000003', 95);
