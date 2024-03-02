@@ -12,3 +12,17 @@ C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\MTProject.
 C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.exe
 C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.pdb
 C:\Users\yasse\Desktop\MULTI TIER APPLI\ProjectMt\ProjectMt\obj\Debug\EmpProj.StudentsF.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\bin\Debug\EmpProj.exe.config
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\bin\Debug\EmpProj.exe
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\bin\Debug\EmpProj.pdb
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\MTProject.csproj.AssemblyReference.cache
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.Courses.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.Enrollments.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj3.Form1.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.Programs.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.Properties.Resources.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.StudentsF.resources
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\MTProject.csproj.GenerateResource.cache
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\MTProject.csproj.CoreCompileInputs.cache
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.exe
+D:\Personal Projects\C# WebForm with Multi-Tier Architecture\ProjectMt\obj\Debug\EmpProj.pdb
